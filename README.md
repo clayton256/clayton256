@@ -1,6 +1,6 @@
 ## clayton256
 ## mark-clayton.com
-
+![tools icon](toolsicon.png)
 <!--
 **clayton256/clayton256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
